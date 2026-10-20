@@ -9,9 +9,9 @@ An exploratory data analysis of Indian startup funding deals. The project cleans
 
 ## TL;DR
 
-- **Funding is highly concentrated.** Bengaluru leads on both deal count (~850) and total funding (~$14.6B), more than 2x the second-ranked city on both measures.
+- **Funding is highly concentrated.** Bengaluru leads on both deal count (≈850) and total funding (≈$14.6B), more than 2x the second-ranked city on both measures.
 - **Activity is not the same as money.** Gurugram outranks New Delhi in total funding despite fewer deals, and Consumer Internet leads by deal count while E-Commerce leads by total money raised. In both cases, average deal size is the deciding factor.
-- **The market matured between 2015 and 2019.** Deal count fell every year (647 → 104) while average deal size grew about 4x (~$13M → ~$56M), a sign of capital consolidating into fewer, larger bets.
+- **The market matured between 2015 and 2019.** Deal count fell every year (647 → 104) while average deal size grew about 4x (≈$13M → ≈$56M), a sign of capital consolidating into fewer, larger bets.
 - **2017's funding peak ($10.4B) came from bigger deals, not more startups.** Deal count that year was lower than in 2016.
 
 ## Business Problem
@@ -72,7 +72,7 @@ Cleaning took as much care as the analysis, because every insight below depends 
 ## Key Insights
 
 ### 1. Geographic concentration
-Bengaluru leads both deal count (~850) and total funding (~$14.6B), more than 2x the second-ranked city on both metrics. Startup funding in India is concentrated in a small number of hubs.
+Bengaluru leads both deal count (≈850) and total funding (≈$14.6B), more than 2x the second-ranked city on both metrics. Startup funding in India is concentrated in a small number of hubs.
 
 ### 2. Activity does not equal money
 - **Gurugram vs New Delhi:** Gurugram outranks New Delhi in total funding despite having fewer deals.
@@ -91,10 +91,10 @@ The funding peak of $10.4B in 2017 was driven by bigger deals, not more startups
 | Metric | Value |
 |---|---|
 | Records analysed | 3,044 |
-| Bengaluru deals / total funding | ~850 / ~$14.6B |
+| Bengaluru deals / total funding | ≈850 / ≈$14.6B |
 | Deal count, 2015 → 2019 | 647 → 104 |
-| Average deal size, 2015 → 2019 | ~$13M → ~$56M |
-| Peak funding year | 2017 (~$10.4B) |
+| Average deal size, 2015 → 2019 | ≈$13M → ≈$56M |
+| Peak funding year | 2017 (≈$10.4B) |
 
 ## What This Means
 
